@@ -1,0 +1,2 @@
+# javascriptNotes
+FreeCodeCamp JS notes
